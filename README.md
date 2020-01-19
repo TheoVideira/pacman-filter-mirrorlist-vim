@@ -1,1 +1,3 @@
-# pacman-filter-mirrorlist-vim
+```
+:%s/^##\s\(France\)\@!\(.*\)\nServer = .*\n//
+```
